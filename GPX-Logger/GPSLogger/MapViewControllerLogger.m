@@ -96,7 +96,7 @@
     // set cancel action position
     actionSheet.cancelButtonIndex = actionSheet.numberOfButtons -1;
     
-    [actionSheet showInView:self.view];
+    [actionSheet showFromTabBar:self.view];
 }
 
 
