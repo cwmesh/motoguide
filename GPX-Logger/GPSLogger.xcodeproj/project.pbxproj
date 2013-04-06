@@ -65,6 +65,7 @@
 		8A94B5DE16F78EC800370235 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8A94B5DC16F78EC800370235 /* Localizable.strings */; };
 		8A94B5E016F78EDE00370235 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A94B5DF16F78EDE00370235 /* QuartzCore.framework */; };
 		8A94B5E216F7907000370235 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A94B5E116F7907000370235 /* Default-568h@2x.png */; };
+		8AB845C917046DE100CD4008 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AB845C817046DE100CD4008 /* MainStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -160,6 +161,7 @@
 		8A94B5DC16F78EC800370235 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		8A94B5DF16F78EDE00370235 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QuartzCore.framework; sourceTree = "<group>"; };
 		8A94B5E116F7907000370235 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8AB845C817046DE100CD4008 /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +190,7 @@
 				8A94B5E116F7907000370235 /* Default-568h@2x.png */,
 				8A94B5A716F77F2E00370235 /* Screen Shot 2013-03-18 at 11.21.52 AM.png */,
 				8A94B5A516F77ED000370235 /* Screen Shot 2013-03-18 at 11.21.06 AM.png */,
+				8AB845C817046DE100CD4008 /* MainStoryboard.storyboard */,
 				132C464B14D26F8C0040EAC7 /* GPSLogger */,
 				132C464414D26F8C0040EAC7 /* Frameworks */,
 				132C464214D26F8C0040EAC7 /* Products */,
@@ -480,6 +483,7 @@
 				8A94B5DD16F78EC800370235 /* Settings.bundle in Resources */,
 				8A94B5DE16F78EC800370235 /* Localizable.strings in Resources */,
 				8A94B5E216F7907000370235 /* Default-568h@2x.png in Resources */,
+				8AB845C917046DE100CD4008 /* MainStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
