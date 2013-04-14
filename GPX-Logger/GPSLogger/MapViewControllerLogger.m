@@ -11,7 +11,7 @@
 #import <GPX/GPX.h>
 #import "MapViewControllerLogger.h"
 #import "TrackPoint.h"
-// Inngerband
+// Innerband
 #import "CoreDataStore.h"
 #import "Functions.h"
 #import "NSManagedObject+InnerBand.h"
